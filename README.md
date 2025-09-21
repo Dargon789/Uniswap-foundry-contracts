@@ -1,6 +1,6 @@
 ## Template Repo (Foundry)
 
-[![CI Status](../../actions/workflows/test.yaml/badge.svg)](../../actions)
+[![test](https://github.com/Dargon789/Uniswap-foundry-contracts/actions/workflows/test.yaml/badge.svg?branch=main)](https://github.com/Dargon789/Uniswap-foundry-contracts/actions/workflows/test.yaml)
 
 This template repo is a quick and easy way to get started with a new Solidity project. It comes with a number of features that are useful for developing and deploying smart contracts. Such as:
 
